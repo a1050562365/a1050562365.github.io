@@ -37,7 +37,7 @@ nightMode: false
 
 # Comments 评论功能
 comments:
-  disqus: false
+  disqus: true
   disqus_url: 'https://liaokeyu.disqus.com/embed.js'
 
 # MathJax 公式支持 by Ray-Eldath
@@ -59,7 +59,7 @@ sns:
   weibo: '//weibo.com/lovecolcol'
   juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
   instagram: '//www.instagram.com/steveliaocn'
-  github: '//github.com/kaeyleo'
+  github: '//github.com/a1050562365'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar

@@ -1,4 +1,8 @@
-@[toc]
+---
+layout: post
+categories: 论文笔记
+cover: 'https://img-blog.csdnimg.cn/20200715210234597.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg0OTc2Mw==,size_16,color_FFFFFF,t_70'
+---
 ## 1. 介绍
 ### 1.1 超像素概念
 超像素最直观的解释，就是把一些具有相似特性的像素“聚合”起来，形成一个更具有代表性的大“元素”。对于较大的图片，可以在不牺牲太大精度的前提下对图片进行“降维”。
